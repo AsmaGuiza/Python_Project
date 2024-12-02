@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-from src.data_processing import load_csv, normalize_data, handle_missing_values
+from ..src.data_processing import load_csv, normalize_data, handle_missing_values
 
 
 
