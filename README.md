@@ -26,7 +26,7 @@ pip install datalib
 ```
 
 
-## Exemples d'utilisation
+## Exemples  d'utilisation
 
 ### 1. Chargement et traitement des données
 
