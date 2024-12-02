@@ -1,5 +1,5 @@
 import pytest
-from ..src.statistics import calculate_mean, calculate_median, calculate_correlation
+from src.statistics import calculate_mean, calculate_median, calculate_correlation
 
 def test_calculate_mean():
     data = [1, 2, 3, 4]
